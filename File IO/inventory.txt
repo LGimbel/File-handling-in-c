@@ -1,0 +1,15 @@
+ItemName:MQ9_Reaper
+Price:30.00
+Quantity:8
+ItemName:P8_Posideon
+Price:175.00
+Quantity:-10
+ItemName:V22_Osprey
+Price:71.30
+Quantity:21
+ItemName:F35_Lightning
+Price:128.00
+Quantity:100
+ItemName:F22_Raptor
+Price:174.00
+Quantity:12
